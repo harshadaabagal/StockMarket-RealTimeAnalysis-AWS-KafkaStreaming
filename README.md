@@ -9,4 +9,4 @@ Here, I have used different technologies such as Python, Amazon Web Services (AW
 <img src="Architecture.jpeg">
 
 ## Dataset Used
-Dataset - https://github.com/Ishaan-Rawat/stock-market-kafka/blob/master/data/indexProcessed.csv
+Dataset - (https://github.com/harshadaabagal/StockMarket-RealTimeAnalysis-AWS-KafkaStreaming/blob/main/data/indexProcessed.csv)
